@@ -1,10 +1,12 @@
 # ECO-LOG
 
-* React
-* TypeScript
-* Storybook
-* Recoil
-* Styled Components
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)* Recoil
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Recoil](https://img.shields.io/badge/recoil-f26b00?style=for-the-badge&logo={svg가 변환된텍스트})
+
+
 
 <img width="504" alt="image" src="https://user-images.githubusercontent.com/65494214/217689618-21cc86ab-d580-478d-a1ef-a0e1acd331c5.png">
 <img width="489" alt="image" src="https://user-images.githubusercontent.com/65494214/217689642-32b4e86a-3385-463f-99f1-bcbcd92e7b3d.png">
